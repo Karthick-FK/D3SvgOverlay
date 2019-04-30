@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/teralytics/Leaflet.D3SvgOverlay#readme",
   "dependencies": {
-    "d3": "^5.0.0",
+    "d3": "^5.5.0",
     "leaflet": "^0.7.0"
   }
 }
